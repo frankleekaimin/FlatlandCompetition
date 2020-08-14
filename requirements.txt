@@ -41,7 +41,7 @@ dm-sonnet==1.35
 docker-py==1.10.3
 docker-pycreds==0.2.1
 docutils==0.14
-dopamine-rl==3.0.0
+-e git+https://github.com/google/dopamine.git#egg=dopamine-rl
 EasyProcess==0.2.7
 entrypoints==0.3
 enum34==1.1.6
