@@ -1,4 +1,4 @@
--e git://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail.git
+-e git://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail.git#egg=a2c-ppo-acktr
 absl-py==0.8.1
 alabaster==0.7.12
 appdirs==1.4.3
